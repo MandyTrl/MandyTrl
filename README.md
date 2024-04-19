@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1>👋 Hi !</h1>
+<img  align="left" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-3.gif" alt="" width="36%"/> 
 
-<!--
-**MandyTrl/MandyTrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Welcome on my Github's profil</h3>
 
-Here are some ideas to get you started:
+*I'm `Mandy`, a <sup>creative🪄</sup> frontend / fullstack developer <sup>based in France🥖</sup>*
+  
+*All of my projects are available at <a href="[www.linkedin.com/in/mandy-thorel](https://mdytrl.com/)" target="blank">my portfolio</a>*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt=""/> 
+</div>
+
+  <a href="www.linkedin.com/in/mandy-thorel" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  </br>
+  </br>
+  
+<div>
+  
+**✨Favorite Stacks**
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="30" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"  height="30"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="30"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"  height="30"/>
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandytrl&" alt="" /> 
+
+
+<!--- comments plugins
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hi%20!%20Welcome%20on%20my%20Github%20profil&height=200)](https://github.com/Akshay090/svg-banners) banner typing
+[![fav-stacks](https://skillicons.dev/icons?i=react,next,typescript,tailwind)](https://skillicons.dev) list of icons
+<img src="https://github-profile-trophy.vercel.app/?username=mandytrl&title=Commits,Repositories,Followers&theme=oldie&margin-w=5&no-frame=true"  alt="" /> cool trophys on github
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mandytrl&show_icons=true&locale=en" alt="mandytrl" /> github metrics
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandytrl&" alt="mandytrl" /> github metrics streaks
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mandytrl&show_icons=true&locale=en&layout=compact" alt="mandytrl" /> most languages use
+
+
