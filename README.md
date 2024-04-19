@@ -8,16 +8,15 @@
   
 *All of my projects are available at <a href="[www.linkedin.com/in/mandy-thorel](https://mdytrl.com/)" target="blank">my portfolio</a>*
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt=""/> 
-</div>
-
   <a href="www.linkedin.com/in/mandy-thorel" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  </br>
-  </br>
+  </br></br>
+</div>
   
+#
+
+</br>
 <div>
   
 **✨Favorite Stacks**
