@@ -6,10 +6,10 @@
 
 *I'm `Mandy`, a <sup>creative🪄</sup> frontend / fullstack developer <sup>based in France🥖</sup>*
   
-*All of my projects are available at <a href="[www.linkedin.com/in/mandy-thorel](https://mdytrl.com/)" target="blank">my portfolio</a>*
+*All of my projects are available at <a href="https://mdytrl.com/" target="_blank">my portfolio</a>*
 
   <a href="www.linkedin.com/in/mandy-thorel" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="profil_mandy_trl_linkedin" />
   </a>
   </br></br>
 </div>
