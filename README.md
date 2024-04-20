@@ -8,9 +8,7 @@
   
 *All of my projects are available at <a href="https://mdytrl.com/" target="_blank">my portfolio</a>*
 
-  <a href="www.linkedin.com/in/mandy-thorel" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="profil_mandy_trl_linkedin" />
-  </a>
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="profil_mandy_trl_linkedin" />](www.linkedin.com/in/mandy-thorel)
   </br></br>
 </div>
   
