@@ -14,10 +14,9 @@
   
 #
 
-</br>
 <div>
   
-**✨Favorite Stacks**
+ <h3>✨Favorite Stacks</h3>
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="30" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"  height="30"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="30"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"  height="30"/>
 
