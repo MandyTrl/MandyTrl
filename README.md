@@ -1,16 +1,23 @@
 <h1>👋 Hi !</h1>
-<img  align="left" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-3.gif" alt="" width="36%"/> 
 
-<div align="center">
+<div>
   <h3>Welcome on my Github's profil</h3>
 
 *I'm `Mandy`, a <sup>creative🪄</sup> frontend / fullstack developer <sup>based in France🥖</sup>*
   
 *All of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a>*
+  
+#
+<p>You can find me on </p>
 
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="profil_mandy_trl_linkedin" />](https://www.linkedin.com/in/mandy-thorel)
-  </br></br>
+
+<p>..or on my laptop ;)</p>
+
 </div>
+
+<img  align="center" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-3.gif" alt="" /> 
+
   
 #
 
