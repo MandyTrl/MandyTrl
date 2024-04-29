@@ -10,10 +10,9 @@
 #
 <p>You can find me on </p>
 
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="profil_mandy_trl_linkedin" />](https://www.linkedin.com/in/mandy-thorel)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="profil_mandy_trl_linkedin" width="35" />](https://www.linkedin.com/in/mandy-thorel)
 
 <p>..or on my laptop ;)</p>
-
 </div>
 
 <img  align="center" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-3.gif" alt="" /> 
