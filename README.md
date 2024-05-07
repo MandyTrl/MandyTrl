@@ -28,8 +28,7 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mandytrl&" alt="" /> 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MandyTrl&border_radius=15&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=560&card_height=200&ring=FFD6AF&background=EBF4FF&border=00315D&stroke=00315D&fire=FFD6AF&currStreakNum=00315D&sideNums=00315D&currStreakLabel=00315D&sideLabels=00315D&dates=435494)](https://git.io/streak-stats)
 
 <!--- comments plugins
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hi%20!%20Welcome%20on%20my%20Github%20profil&height=200)](https://github.com/Akshay090/svg-banners) banner typing
