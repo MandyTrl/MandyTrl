@@ -1,9 +1,9 @@
-<h1>👋 Hi !</h1>
+<h1>👋Hello !</h1>
 
 <div>
   <h3>Welcome on my Github's profil</h3>
 
-*I'm `Mandy`, a <sup>creative🪄</sup> frontend / fullstack developer <sup>based in France🥖</sup>*
+*I'm __`Mandy`__ , a <sup>creative🪄</sup> frontend / fullstack developer <sup>based in France🥖</sup>*
   
 *All of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a>*
   
