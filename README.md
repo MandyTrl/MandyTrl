@@ -3,10 +3,8 @@
 <div>
   <h3>Welcome on my Github's profil</h3>
 
-*I'm __`Mandy`__ , a <sup>creative🪄</sup> frontend / fullstack developer <sup>based in France🥖</sup>*
-  
-*All of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a>*
-  
+*I'm `Mandy` , a creative🪄 frontend / fullstack developer based in France🥖.*  
+*Most of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a>.*  
 #
 <p>You can find me on </p>
 
@@ -24,11 +22,11 @@
   
  <h3>✨Favorite Stacks</h3>
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="30" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"  height="30"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="30"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"  height="30"/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="28" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"  height="28"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="28"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"  height="28"/>
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MandyTrl&border_radius=15&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=560&card_height=200&ring=FFD6AF&background=EBF4FF&border=00315D&stroke=00315D&fire=FFD6AF&currStreakNum=00315D&sideNums=00315D&currStreakLabel=00315D&sideLabels=00315D&dates=435494)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MandyTrl&border_radius=15&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=530&card_height=180&ring=FFD6AF&background=EBF4FF&border=00315D&stroke=00315D&fire=FFD6AF&currStreakNum=00315D&sideNums=00315D&currStreakLabel=00315D&sideLabels=00315D&dates=435494)](https://git.io/streak-stats)
 
 <!--- comments plugins
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋%20Hi%20!%20Welcome%20on%20my%20Github%20profil&height=200)](https://github.com/Akshay090/svg-banners) banner typing
