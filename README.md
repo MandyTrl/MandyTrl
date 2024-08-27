@@ -1,4 +1,4 @@
-<h2>👋🙂Hello !</h2>
+<h2>👋Hello !</h2>
 
 
 Welcome on my Github's profil,
