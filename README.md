@@ -1,19 +1,12 @@
-<h1>👋Hello !</h1>
+<h2>👋🙂Hello !</h2>
 
 <div>
-  <h3>Welcome on my Github's profil</h3>
+Welcome on my Github's profil,
 
-*I'm `Mandy` , a creative🪄 frontend / fullstack developer based in France🥖.*  
-*Most of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a>.*  
-#
-<p>You can find me on </p>
-
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="profil_mandy_trl_linkedin" width="35" />](https://www.linkedin.com/in/mandy-thorel)
-
-<p>..or on my laptop ;)</p>
+I'm **Mandy** , a `frontend / fullstack developer` based in France🥖. 
+</br>
+Most of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a> and you can find me on <a href="https://www.linkedin.com/in/mandy-thorel" target="_blank">linkedIn</a> or on my laptop ;). 
 </div>
-
-<img  align="center" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-3.gif" alt="" /> 
   
 #
 
