@@ -11,7 +11,7 @@ Most of my projects are available on <a href="https://mdytrl.com/" target="_blan
 
 <div>
   
- <b>✨Favorite Stacks</b>
+ <h4>✨Favorite Stacks</h4>
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="23" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"  height="23"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" height="23"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"  height="23"/>
 
