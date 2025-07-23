@@ -1,6 +1,4 @@
-Welcome on my Github's profil,
-
-I'm **Mandy** , a `frontend / fullstack developer` based in France🥖. 
+I'm **Mandy** , a `frontend / fullstack developer` based in France 🥖. 
 </br>
 Most of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a> and you can find me on <a href="https://www.linkedin.com/in/mandy-thorel" target="_blank">linkedIn</a> or on my laptop ;) 
 
