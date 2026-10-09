@@ -1,8 +1,8 @@
 I'm **Mandy**, a front-end focused `developer` based in France 🥖. 
 </br>
 I enjoy building thoughtful interfaces, combining code and design, and turning ideas into meaningful web experiences.
-</br>
-Most of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a>. You can alos find me on <a href="https://www.linkedin.com/in/mandy-thorel" target="_blank">linkedIn</a> or at my laptop ⏎
+</br></br>
+Most of my projects are available on <a href="https://mdytrl.com/" target="_blank">my portfolio</a>. You can also find me on <a href="https://www.linkedin.com/in/mandy-thorel" target="_blank">linkedIn</a> or at my laptop ⏎
 
 <!--- comments plugins
 
